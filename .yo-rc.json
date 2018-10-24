@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.lookbug.myapp",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "microservice",
+    "baseName": "mcsrc",
+    "packageName": "com.lookbug.myapp",
+    "packageFolder": "com/lookbug/myapp",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ODVlYTE1MzM5NGMxNDQwOTg4ZjMxNjk0YzNiY2M1ZDgzOWE5NTQ0YThmZDMwMTNlNDNhNDNjZjMzYTkzOGNkZWI4NzEyODhmYzFiOTVmNmQ1M2QyNmNhMGZmYTg1NzJmM2FiNzA2YmE5NTE1Y2M2OTkwNzYzYmRmYjlmOTdkNjM=",
+    "enableTranslation": true,
+    "languages": [
+      "en",
+      "ru"
+    ],
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
